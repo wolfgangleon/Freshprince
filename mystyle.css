@@ -1,0 +1,18 @@
+h1 {color: #FFFFFF;
+	text-align: center;}
+
+body {background-color: #0066CC;}
+
+p { font-family: sans-serif;
+	background-color: #00FFCC;
+	text-align: center;
+	font-style:italic; }
+
+ul {font-family: "lucida console", lucida, monospace;
+	background-color: #00FFCC;
+	text-align: left;
+	font-style:italic; }
+
+.pa{background-color: blue;}
+.pb{background-color: red;}
+
